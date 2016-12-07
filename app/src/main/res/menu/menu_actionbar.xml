@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+    All action buttons and other items available in the action overflow are defined
+    in an XML menu resource. To add actions to the action bar, create a new XML file
+    in your project's res/menu/ directory.
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/menu_1"
+        android:icon="@drawable/ic_account_balance_white_24dp"
+        android:orderInCategory="0"
+        android:title="@string/menu_1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_2"
+        android:icon="@drawable/ic_restaurant_white_24dp"
+        android:orderInCategory="1"
+        android:title="@string/menu_2"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_3"
+        android:icon="@drawable/ic_directions_car_white_24dp"
+        android:orderInCategory="2"
+        android:title="@string/menu_3"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_4"
+        android:icon="@drawable/ic_settings_remote_white_24dp"
+        android:orderInCategory="3"
+        android:title="@string/menu_4"
+        app:showAsAction="ifRoom" />
+
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@drawable/ic_help_white_24dp"
+        android:orderInCategory="4"
+        android:title="@string/menu_about"
+        app:showAsAction="never" />
+</menu>

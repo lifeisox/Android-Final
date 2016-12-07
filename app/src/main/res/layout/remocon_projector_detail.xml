@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/manufacturer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/basic_margin"
+        android:paddingBottom="@dimen/basic_margin"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="@dimen/double_margin"
+        android:rowCount="4"
+        android:columnCount="3" >
+
+        <ImageButton
+            android:id="@+id/volume_up"
+            app:srcCompat="@drawable/ic_keyboard_arrow_up_white_48dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/volume_up_text" />
+
+        <ImageButton
+            android:id="@+id/power"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_settings_power_white_48dp"
+            android:contentDescription="@string/power_text" />
+
+        <ImageButton
+            android:id="@+id/previous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_replay_white_48dp"
+            android:contentDescription="@string/back_text" />
+
+        <TextView
+            android:text="@string/vol_up_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold"
+            android:text="@string/power_view_text" />
+
+        <TextView
+            android:text="@string/back_view_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/volume_down"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_keyboard_arrow_down_white_48dp"
+            android:contentDescription="@string/volume_down_text" />
+
+        <ImageButton
+            android:id="@+id/mute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_volume_off_white_48dp"
+            android:contentDescription="@string/mute_text" />
+
+        <ImageButton
+            android:id="@+id/okay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_menu_white_48dp"
+            android:contentDescription="@string/confirm_text" />
+
+        <TextView
+            android:text="@string/vol_down_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold"
+            android:text="@string/mute_view_text" />
+
+        <TextView
+            android:text="@string/menu_view_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold" />
+
+    </GridLayout>
+
+</LinearLayout>
+

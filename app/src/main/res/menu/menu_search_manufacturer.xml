@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_cancel"
+        android:icon="@drawable/ic_cancel_white_24dp"
+        android:orderInCategory="999"
+        android:title="@string/menu_4"
+        app:showAsAction="always" />
+</menu>

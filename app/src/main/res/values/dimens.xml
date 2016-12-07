@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="basic_margin">16dp</dimen>
+    <dimen name="double_margin">32dp</dimen>
+    <dimen name="author_icon_width">110dp</dimen>
+    <dimen name="author_icon_height">110dp</dimen>
+    <dimen name="minimum_margin">4dp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="middle_margin">24dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="text_size_big">32sp</dimen>
+    <dimen name="weather_icon_height">150dp</dimen>
+    <dimen name="text_size_very_big">50sp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="left_window_width">350dp</dimen>
+    <dimen name="icon_48dp">48dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="dip72">72dp</dimen>
+    <dimen name="dip68">68dp</dimen>
+    <dimen name="text_sp36">36sp</dimen>
+</resources>

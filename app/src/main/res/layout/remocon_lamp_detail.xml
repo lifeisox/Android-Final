@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/manufacturer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/basic_margin"
+        android:paddingBottom="@dimen/basic_margin"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold" />
+
+    <Switch
+        android:id="@+id/flash_sw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="@dimen/double_margin"
+        android:paddingTop="@dimen/icon_48dp"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        android:text="@string/flash"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/basic_margin"
+        android:text="@string/dimmer_text"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/dimmer_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:padding="@dimen/middle_margin"
+        android:progress="50" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/basic_margin"
+        android:text="@string/red_text"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/red_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:padding="@dimen/middle_margin"
+        android:progress="50" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/basic_margin"
+        android:text="@string/green_text"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/green_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:padding="@dimen/middle_margin"
+        android:progress="50" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/basic_margin"
+        android:text="@string/blue_text"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/blue_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:padding="@dimen/middle_margin"
+        android:progress="50" />
+
+</LinearLayout>
+

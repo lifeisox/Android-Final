@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="algonquin00336x.cst2335.finalproject">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.TRANSMIT_IR"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.consumerir" />
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="25" /> <!-- Minimum SDK Version is 17 -->
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission
+        android:name="android.permission.FLASHLIGHT"
+        android:permissionGroup="android.permission-group.HARDWARE_CONTROLS"
+        android:protectionLevel="normal" />
+
+    <!-- If you need any permission, insert at this place -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+        <!-- The main/home activity (it has no parent activity) -->
+        <activity
+            android:name=".StartActivity"
+            android:label="@string/app_name"
+            android:theme="@style/DarkToolbarTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Home Activities
+                To support the up functionality in an activity, you need to declare the activity's parent.
+                You can do this in the app manifest, by setting an android:parentActivityName attribute. -->
+
+
+
+        <!-- Kitchen Activities
+                To support the up functionality in an activity, you need to declare the activity's parent.
+                You can do this in the app manifest, by setting an android:parentActivityName attribute. -->
+
+
+
+        <!-- Automobile Activities
+                To support the up functionality in an activity, you need to declare the activity's parent.
+                You can do this in the app manifest, by setting an android:parentActivityName attribute. -->
+
+
+
+        <!-- Living room Activities
+                To support the up functionality in an activity, you need to declare the activity's parent.
+                You can do this in the app manifest, by setting an android:parentActivityName attribute. -->
+        <activity
+            android:name=".RemoconMainActivity"
+            android:label="@string/title_menu_4"
+            android:theme="@style/DarkToolbarTheme"
+            android:parentActivityName=".StartActivity" >
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".StartActivity" />
+        </activity>
+        <activity
+            android:name=".RemoconAddList"
+            android:label="@string/title_menu_4_add"
+            android:parentActivityName=".RemoconMainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="anrdroid.support.PARENT_ACTIVITY"
+                android:value=".RemoconMainActivity" />
+        </activity>
+        <activity
+            android:name=".RemoconDetailActivity"
+            android:label="@string/title_menu_4"
+            android:parentActivityName=".RemoconMainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="anrdroid.support.PARENT_ACTIVITY"
+                android:value=".RemoconMainActivity" />
+        </activity>
+
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+            App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

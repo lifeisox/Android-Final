@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:rowCount="6"
+    android:columnCount="2"
+    android:layout_margin="@dimen/margin_8dp">
+
+    <TextView
+        android:text="@string/add_remocon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        android:background="@color/primary_light"
+        tools:ignore="RtlSymmetry"
+        android:padding="@dimen/basic_margin"
+        android:gravity="center"
+        android:textColor="@color/accent" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:id="@+id/place_to_use"
+        android:layout_columnSpan="2"
+        android:padding="@dimen/middle_margin"
+        android:layout_gravity="fill_horizontal"
+        android:textSize="@dimen/text_size_small"
+        android:hint="@string/installed_place_hint" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_lightbulb_outline_white_48dp"
+        android:id="@+id/rcitem1_icon"
+        android:padding="@dimen/margin_8dp"
+        android:contentDescription="@string/item_1"
+        android:clickable="true"
+        android:background="@color/primary" />
+
+    <TextView
+        android:text="@string/item_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rcitem1_text"
+        android:layout_gravity="fill"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:background="@color/primary" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_live_tv_white_48dp"
+        android:id="@+id/rcitem2_icon"
+        android:padding="@dimen/margin_8dp"
+        android:contentDescription="@string/item_2"
+        android:clickable="true"
+        android:background="@color/primary" />
+
+    <TextView
+        android:text="@string/item_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rcitem2_text"
+        android:layout_gravity="fill"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:background="@color/primary" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_videogame_asset_white_48dp"
+        android:id="@+id/rcitem3_icon"
+        android:padding="@dimen/margin_8dp"
+        android:contentDescription="@string/item_1"
+        android:clickable="true"
+        android:background="@color/primary" />
+
+    <TextView
+        android:text="@string/item_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rcitem3_text"
+        android:layout_gravity="fill"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:background="@color/primary"
+        android:paddingEnd="@dimen/basic_margin"
+        tools:ignore="RtlSymmetry" />
+
+</GridLayout>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_23d448668abc555dceff498fe45dcf231e42cc06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0a1157e249023f28517a14e247e22fb1bc38c4a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_7432185c1feb439b88ef036fd744328446f171ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_6a4a2d46f470de53d03932f3461acc43fd58b4af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_2b66792e4eedb82e547f4fea17d924004c9b71ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c9141cc2e736e491cf0d4f771c36e8d0edc48e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_fece6d7bfcbe3b2b037df133e0f2dc8960d20534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_7f27a561ec9a5183d48f9cc260db24a170bb012f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a8015e72c44728693317b0be986869ca3dbf6131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_56d3d5bcc8c12896e645ef2eee46e8172c1f21a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_ad124da724aab33a9022befc23f08dbdae9a0306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_665b5733fd724ac09a7e331d2dadd335b3c1d2c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4c792c0ebf974ed76bfedcca5fc7e1f271d80a05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_b4fd4d902be4f7274ce24f52747ae222bfa22147\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_80c184a2c194e71cf000e86211888b7242079959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_951f9b85c3b518ba82ae84e80e52da2801caf37c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_c40baf454706b8b8acd060643ed89874c5cf7e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_909520a20df8063ec1ffe75d75c78392fbfb65ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_44f45518505e180c0bfaa9f015201d6054541483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3e1d7054fc67393909f96a819e05e9db6d143ee">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2717a382fe581696a0e42688cd29441011e51dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5c944bea2c1dc391a464ba1c331eeb5ba8272de">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_088ef0366919db40e13ebebb6169763f3faa5932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_75df617bab1bbfd270d4c2bd62f8d671598c7247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_00ea0f057ba988b69a5230053cf391e8aee72784\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_3ca84f726c66a9f365a5586cd73704046001af42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_11877739c1730c4be2871ff3d28bc45fb0f77ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_3ee647d5cc9a12213a92b29a284e7356a86a9d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_19a5f46f5704d96c4f67e6fe4ee668fc4ea5fd4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_b0b7ad1c0eca6c4b4f038263a11a637d4d8f0d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3fba6fe30935679014cf52b5ab19e7b7cad80aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_6ab0c162c34bd67ae224b2ee67251fb10c922820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="33b249246066b7f776fb42453ff7b0092b4d8f25">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6e582563ff64b0b643c1023c6052f66f6ea39044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_b3494d7d4d358e0a6881bdee4974a0620c356f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_7e74ee1e5da99831bdf25a88a5c4bf4dec85c6da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lifei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_192dedb30160308c84fe7bb200e259a95de5377e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_50cdf75720bb978122f00f86a90e348b014ee069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_aae9f490f0c06bc4277e3846cda4b0272ba46770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_09f2ec65a53fb568f31715f6f0e3e34def3cb4b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_c4ffd40e87e3867ad2c53592143c552c7fde107c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_b573e18677a6a953e03e0572ef42cfaeb1a8485f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\OneDrive\Programs\Android\Android-Final\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_6102141b9825b4106c617155f971b54ad70854ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d046a7e43ebba97425b5b34508c6f5019d404d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e4d813a02c364a1d7321ea5f2d9225f091c20c2">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7bffb4493927874e3cf7a7095e3e4e036d6da95b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_532481bd6aac45bf67bc8bf511494acbc738cb25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9c272c217474b38da3b1f74b7374dca5268dd2cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\OneDrive\Programs\Android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_b7a5d5048b782eefef7d97cb1ce5869447b64bd5\classes.dex" />
+    </item>
+
+</items>

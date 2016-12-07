@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="DarkToolbarTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="DarkToolbarTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
