@@ -11,7 +11,7 @@
         android:required="false" />
     <uses-feature android:name="android.hardware.consumerir" />
     <uses-sdk
-        android:minSdkVersion="23"
+        android:minSdkVersion="21"
         android:targetSdkVersion="25" /> <!-- Minimum SDK Version is 17 -->
 
     <uses-feature android:name="android.hardware.camera" />
